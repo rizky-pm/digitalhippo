@@ -9,6 +9,8 @@ const nextConfig = {
         protocol: 'http',
       },
     ],
+
+    // domains: ['localhost', 'digitalhippo-production-b6e0.up.railway.app'],
   },
 };
 
